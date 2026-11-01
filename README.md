@@ -1,16 +1,45 @@
-## Hi there 👋
+# Omer Benguigui
 
-<!--
-**omerbenguigui/omerbenguigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Holon Institute of Technology (HIT), based in Ashdod, Israel. I build projects in Python and C and am open to student and junior opportunities across software development and technology.
 
-Here are some ideas to get you started:
+My work here ranges from console games and simulation models to networked applications and a security monitoring dashboard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### [CyberWatch](https://github.com/omerbenguigui/CyberWatch)
+
+A Mini-SIEM built with Python, FastAPI and SQLite. It accepts security events, applies detection rules and lets a user inspect alerts, update their status and add investigation notes. The local demo includes synthetic scenarios and MITRE ATT&CK technique mappings.
+
+**Explore:** [Demo walkthrough](https://github.com/omerbenguigui/CyberWatch/blob/main/docs/images/cyberwatch-demo.gif) · [Detection rules](https://github.com/omerbenguigui/CyberWatch/blob/main/app/detection.py) · [Tests](https://github.com/omerbenguigui/CyberWatch/tree/main/tests)
+
+### [MiniMarket Inventory Simulation](https://github.com/omerbenguigui/MiniMarket-C-Project)
+
+A C model of daily store demand, inventory shortages and replenishment. It uses an (s, Q) ordering policy, a linked list of purchase orders, CSV logging and saved simulation state.
+
+**Explore:** [Model and setup](https://github.com/omerbenguigui/MiniMarket-C-Project#readme) · [Implementation](https://github.com/omerbenguigui/MiniMarket-C-Project/blob/main/Source.c)
+
+### [Python TCP Chat](https://github.com/omerbenguigui/Fianl-Python-Project)
+
+A networking study project with a threaded server, multiple terminal clients, group messages and direct messages. The repository includes the protocol implementation and supporting traffic-analysis materials.
+
+**Explore:** [Run locally](https://github.com/omerbenguigui/Fianl-Python-Project#run-locally) · [Server](https://github.com/omerbenguigui/Fianl-Python-Project/blob/main/server.py)
+
+## Projects from my studies
+
+These smaller projects show the programming fundamentals behind the larger applications. Each stays in its own repository with its original history.
+
+| Project | What it explores |
+| --- | --- |
+| [CodeBreaker](https://github.com/omerbenguigui/CodeBreaker-Game) | A C guessing game with input validation, hit/near-hit scoring, saved progress and high scores |
+| [Budget Manager](https://github.com/omerbenguigui/Budget-System) | C structs, dynamic arrays, text-file persistence and monthly/annual summaries |
+
+## Technologies used in these repositories
+
+- **Python:** FastAPI, Pydantic, sockets, threading and pytest
+- **C:** structs, arrays, linked lists, dynamic memory and file I/O
+- **Web and data:** HTML, CSS, JavaScript, REST APIs and SQLite
+- **Development tools:** Git, GitHub Actions, Docker, Ruff and Bandit
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/omer-benguigui-04296835a/) · [Email](mailto:omerbenguigui16@gmail.com)

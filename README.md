@@ -1,8 +1,8 @@
 # Omer Benguigui
 
-I'm a Computer Science student at Holon Institute of Technology (HIT), based in Ashdod, Israel. I build projects in Python and C and am open to student and junior opportunities across software development and technology.
+I'm a computer science student at Holon Institute of Technology (HIT), based in Ashdod, Israel. I build projects in Python and C, and I'm open to student positions and entry-level roles in software development and other areas of technology.
 
-My work here ranges from console games and simulation models to networked applications and a security monitoring dashboard.
+My projects range from console games and inventory simulations to client-server applications and a security monitoring dashboard.
 
 ## Selected projects
 

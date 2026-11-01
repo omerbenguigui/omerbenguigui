@@ -10,7 +10,7 @@ My projects range from console games and inventory simulations to client-server 
 
 A Mini-SIEM built with Python, FastAPI and SQLite. It accepts security events, applies detection rules and lets a user inspect alerts, update their status and add investigation notes. The local demo includes synthetic scenarios and MITRE ATT&CK technique mappings.
 
-**Explore:** [32-second demo](https://github.com/omerbenguigui/CyberWatch/blob/main/docs/demo/cyberwatch-walkthrough.mp4) · [Detection rules](https://github.com/omerbenguigui/CyberWatch/blob/main/app/detection.py) · [Tests](https://github.com/omerbenguigui/CyberWatch/tree/main/tests)
+**Explore:** [32-second demo](https://github.com/omerbenguigui/CyberWatch#demo) · [Detection rules](https://github.com/omerbenguigui/CyberWatch/blob/main/app/detection.py) · [Tests](https://github.com/omerbenguigui/CyberWatch/tree/main/tests)
 
 ### [MiniMarket Inventory Simulation](https://github.com/omerbenguigui/MiniMarket-C-Project)
 

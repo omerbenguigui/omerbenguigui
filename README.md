@@ -18,11 +18,11 @@ A C model of daily store demand, inventory shortages and replenishment. It uses 
 
 **Explore:** [Model and setup](https://github.com/omerbenguigui/MiniMarket-C-Project#readme) · [Implementation](https://github.com/omerbenguigui/MiniMarket-C-Project/blob/main/Source.c)
 
-### [Python TCP Chat](https://github.com/omerbenguigui/Fianl-Python-Project)
+### [Python Client-Server Chat](https://github.com/omerbenguigui/Python-Client-Server-Chat)
 
 A networking study project with a threaded server, multiple terminal clients, group messages and direct messages. The repository includes the protocol implementation and supporting traffic-analysis materials.
 
-**Explore:** [Run locally](https://github.com/omerbenguigui/Fianl-Python-Project#run-locally) · [Server](https://github.com/omerbenguigui/Fianl-Python-Project/blob/main/server.py)
+**Explore:** [Run locally](https://github.com/omerbenguigui/Python-Client-Server-Chat#run-locally) · [Server](https://github.com/omerbenguigui/Python-Client-Server-Chat/blob/main/server.py)
 
 ## Projects from my studies
 
